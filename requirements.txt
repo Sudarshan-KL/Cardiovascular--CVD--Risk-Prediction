@@ -1,5 +1,5 @@
 streamlit
-scikit-learn>=1.0,<2.0
+scikit-learn==1.7.2
 xgboost
 shap
 pandas
@@ -8,4 +8,5 @@ joblib
 matplotlib
 plotly
 reportlab
+
 
